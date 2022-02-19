@@ -1,4 +1,4 @@
-<h1>Cody Cox's ePortfolio</h1>
+#Cody Cox's ePortfolio
 
 <p>A demonstration of my projects and general experience, also containing the Capstone Project for my Computer Science Degree from Southern New Hampshire University.</p>
 

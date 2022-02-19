@@ -1,0 +1,10 @@
+species,name,age,gender,habitat,food type,feedings
+tiger,Lotti,4,female,jungle,meat,3
+tiger,Bengi,8,male,jungle,meat,2
+giraffe,Larry,10,male,savannah,leaves,4
+llama,Josie,2,female,mountains,leaves,6
+llama,Fredrick,3,male,mountains,leaves,5
+dolphin,Flipper,1,male,ocean,fish,2
+dolphin,Flapper,7,female,ocean,fish,5
+monkey,Jim-Bob,4,male,jungle,berries,4
+monkey,Jane-Bo,6,female,jungle,berries,3

@@ -1,6 +1,8 @@
 #Cody Cox's ePortfolio
 
 <p>A demonstration of my projects and general experience, also containing the Capstone Project for my Computer Science Degree from Southern New Hampshire University.</p>
+-The link to the original ZooAuthenticator project in the Java language can be found [HERE](https://codycox-admin@bitbucket.org/codycox/zooauthenticatorjava.git)
+-The link to the new enhanced version of the ZooAuthenticator reimagined in Python can be found [HERE](https://github.com/cohcox/cohcox.github.io/tree/main/ZooAuthenticatorPython)
 
 You can use the [editor on GitHub](https://github.com/cohcox/cohcox.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

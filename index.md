@@ -4,6 +4,13 @@ You can use the [editor on GitHub](https://github.com/cohcox/cohcox.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Hyper Link to Bitbucket with original project in Java language.
+https://codycox-admin@bitbucket.org/codycox/zooauthenticatorjava.git
+
+Hyper link to enhanced project now in Python language.
+https://github.com/cohcox/cohcox.github.io/tree/main/ZooAuthenticatorPython
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

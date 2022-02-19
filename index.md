@@ -1,4 +1,4 @@
-#Cody Cox's ePortfolio
+<h1>Cody Cox's ePortfolio</h2>
 
 <p>A demonstration of my projects and general experience, also containing the Capstone Project for my Computer Science Degree from Southern New Hampshire University.</p>
 -The link to the original ZooAuthenticator project in the Java language can be found [HERE](https://codycox-admin@bitbucket.org/codycox/zooauthenticatorjava.git)
